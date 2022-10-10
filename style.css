@@ -1,0 +1,20 @@
+body 
+{
+   background-color: orange;
+   text-align: center;
+}
+img 
+{
+    box-shadow: gray;
+    border-color: white;
+    border-radius:10px;
+}
+hr
+{
+    border-radius:10px ;
+    border-width: 5px;
+}
+h4
+{
+    color: blue;
+}
